@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+}
+.clearfix {
+  content: "";
+  display: block;
+  clear:both;
+}
+
+body {
+  font-size: 24px;
+  line-height: 32px;
+  color: #ebebeb;
+  background-color: #777;
+  max-width: 960px;
+}
+
+header {
+	background-color: #ccc;
+	padding: 20px;
+	color:#ebebebx`;
+	margin: 0px 150px 20px;
+}
+
+nav {
+	background-color: #ccc;
+	padding: 20px;
+	color:#ebebebx`;
+	margin: 0px 150px 20px;
+}
